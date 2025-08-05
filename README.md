@@ -3,7 +3,7 @@ A complete deep learning project to classify fashion items using the Fashion MNI
 This portfolio project demonstrates the end-to-end application of model design, training, evaluation, and testing using **TensorFlow/Keras**.
 
 Use this link to access the notebook in Google Colab:  
-[Open Colab Notebook](https://github.com/Aishwaryachen11/Fashion_MNIST_Classifier/blob/main/Fashion_MNIST_Portfolio_Project.ipynb)
+[Open Colab Notebook](https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Fashion_MNIST_Portfolio_Project.ipynb)
 
 ## 📌 Project Overview
 - **Objective**: Build a neural network to classify 28x28 grayscale images into 10 fashion categories.
