@@ -8,6 +8,7 @@ Use this link to access the notebook in Google Colab:
 ## 📌 Project Overview
 - **Objective**: Build a neural network to classify 28x28 grayscale images into 10 fashion categories.
 - **Dataset**: Fashion MNIST (70,000 images total)
+- **Source**: [California Housing dataset](https://keras.io/api/datasets/fashion_mnist/)
 - **Tools**: Python, TensorFlow, Keras, NumPy, Matplotlib
 - **Techniques**:
   - Neural network design from scratch
