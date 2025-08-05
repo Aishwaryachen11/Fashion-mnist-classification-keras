@@ -60,7 +60,7 @@ A custom **feedforward neural network (fully connected)** was designed with:
 
 ### 🔍 Model Diagram
 
-<img src="https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/model.png" alt="Model Architecture" width="600"/>
+<img src="https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/model.png" alt="Model Architecture" width="450"/>
 
 ## 📉 Training Results
 | Metric              | Value     |
@@ -77,11 +77,11 @@ Both training and validation **accuracy/loss** were plotted using `matplotlib`, 
 
 ### Accuracy Over Epochs
 
-<img src="https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Accuracy_Loss_plot.png" alt="Accuracy over Epochs" width="600"/>
+<img src="https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Accuracy_Loss_plot.png" alt="Accuracy over Epochs" width="450"/>
 
 ### Loss Over Epochs
 
-<img src="https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Accuracy_loss_plot2.png" alt="Loss over Epochs" width="600"/>
+<img src="https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/Accuracy_loss_plot2.png" alt="Loss over Epochs" width="450"/>
 
 > Both plots show healthy convergence and no overfitting due to dropout and early stopping.
 
