@@ -60,7 +60,7 @@ A custom **feedforward neural network (fully connected)** was designed with:
 
 ### 🔍 Model Diagram
 
-<img src="https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/model.png" alt="Model Architecture" width="450"/>
+<img src="https://github.com/Aishwaryachen11/Fashion-mnist-classification-keras/blob/main/model.png" alt="Model Architecture" width="350"/>
 
 ## 📉 Training Results
 | Metric              | Value     |
